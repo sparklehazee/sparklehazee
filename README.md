@@ -4,6 +4,14 @@
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=sparklehazee;Passionate+In+WEB+DEV;RESEARCHER)](https://git.io/typing-svg)
 
+# <img src="/media/tropy.gif" width="50px"> **GitHub Trophies** <img src="/media/tropy.gif" width="50px">
+<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=aeristhy&row=4&theme=onedark&no-frame=true"/>
+</a>
+</div>
+<p><center>
+
+___________________________________________________________________
+
 ![SparkleHazee](https://github.com/PrasyFanatic/prasyikuzo/blob/main/images/PrasyIkuzo.jpg)
 
 
@@ -14,15 +22,7 @@
 
 ___________________________________________________________________
 
-# <img src="/media/tropy.gif" width="50px"> **GitHub Trophies** <img src="/media/tropy.gif" width="50px">
-<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=aeristhy&row=4&theme=onedark&no-frame=true"/>
-</a>
-</div>
-<p><center>
-
-___________________________________________________________________
-
 # <img src="/media/sparkles.gif" width="30px"> Thank You <img src="/media/sparkles.gif" width="30px">
 Thank you for visiting.
 
-![Dinosaurs](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/dino.gif)
+![Dinosaurs 🗿](https://github.com/sparklehazee/sparklehazee/blob/main/media/dino.gif)
