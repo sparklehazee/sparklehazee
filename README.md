@@ -12,7 +12,7 @@
 
 ___________________________________________________________________
 
-![SparkleHazee](https://github.com/PrasyFanatic/prasyikuzo/blob/main/images/PrasyIkuzo.jpg)
+![SparkleHazee](https://github.com/sparklehazee/sparklehazee/blob/main/image/sparklehazee.jpg)
 
 
 > [!WARNING]
